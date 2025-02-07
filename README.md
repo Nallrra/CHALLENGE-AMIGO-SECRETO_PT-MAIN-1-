@@ -58,7 +58,7 @@ Um projeto simples para realizar sorteios de "Amigo Secreto". Adicione os nomes 
 
 ## Licença 📜
 
-Este projeto está licenciado sob a [MIT License](MIT%License).
+Este projeto está licenciado sob a [MIT License](MIT%20License).
 
 
 
