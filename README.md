@@ -27,15 +27,15 @@ Um projeto simples para realizar sorteios de "Amigo Secreto". Adicione os nomes 
 ## Capturas de Tela 📸
 
 ### Tela Inicial
-![Tela Inicial](tela-inicial.png)
+![Tela Inicial](screenshots/tela-inicial.png)
 *Tela inicial do projeto, com campo para adicionar nomes e botão de sorteio.*
 
 ### Adicionando Nomes
-![Adicionando Nomes](adicionando-nomes.png)
+![Adicionando Nomes](screenshots/adicionando-nomes.png)
 *Adicionando nomes à lista de participantes.*
 
 ### Sorteio Realizado
-![Sorteio Realizado](sorteio-realizado.png)
+![Sorteio Realizado](screenshots/sorteio-realizado.png)
 *Resultado do sorteio exibindo o nome sorteado.*
 
 ## Vídeo Demonstrativo 🎥
